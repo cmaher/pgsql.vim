@@ -4,7 +4,7 @@
 " Last Change:  $Date: 2006/05/03 02:12:04 $
 " Filenames:    *.pgsql *.plpgsql
 " URL:		http://www.gunduz.org/postgresql/pgsql.vim
-" Note:		The definitions below are for PostgreSQL 8.1.3, some versions may differ.
+" Note:		The definitions below are for PostgreSQL 9.3, some versions may differ.
 " Changelog:	Thanks to Todd A. Cook for the updates
 
 " For version 5.x: Clear all syntax items
@@ -76,7 +76,7 @@ syn keyword pgsqlType		 abstime aclitem  anyarray anyelement bigint bit bit vary
 syn keyword pgsqlType		 boolean box bytea char character "character varying" cid cidr circle cstring 
 syn keyword pgsqlType		 double date precision inet int2vector integer int2 int4 int8 internal interval 
 syn keyword pgsqlType		 language_handler line lseg 
-syn keyword pgsqlType		 macaddr money name numeric oid oidvector opaque path point polygon real record 
+syn keyword pgsqlType		 macaddr money numeric oid oidvector opaque path point polygon real record 
 syn keyword pgsqlType		 refcursor regclass regoper regoperator regproc regprocedure regtype reltime 
 syn keyword pgsqlType		 smallint smgr text tid timestamp without time zone timestamp with time zone 
 syn keyword pgsqlType		 time without time zone time with time zone tinterval "trigger" 
