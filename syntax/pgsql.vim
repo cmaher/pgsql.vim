@@ -41,7 +41,7 @@ syn keyword pgsqlKeyword	 prepare plpgsql primary password primary privilege pro
 syn keyword pgsqlKeyword	 partition preserve perform
 syn keyword pgsqlKeyword	 role replace reindex release reset revoke rollback references row rows rule restrict
 syn keyword pgsqlKeyword	 raise returns return returning
-syn keyword pgsqlKeyword	 select set start strict schema sequence savepoint simple system stable setof
+syn keyword pgsqlKeyword	 select set serial start strict schema sequence savepoint simple system stable setof
 syn keyword pgsqlKeyword	 truncate to tranaction trigger table tables temp temporary tablespace type
 syn keyword pgsqlKeyword	 update unique unlisten using
 syn keyword pgsqlKeyword	 verbose view values varying vacuum
