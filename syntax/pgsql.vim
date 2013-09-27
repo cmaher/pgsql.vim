@@ -35,12 +35,13 @@ syn keyword pgsqlKeyword	 join
 syn keyword pgsqlKeyword	 key
 syn keyword pgsqlKeyword	 language lock local limit left load loop
 syn keyword pgsqlKeyword	 max maxvalue min minvalue move match
-syn keyword pgsqlKeyword	 notify no new null next notice
+syn keyword pgsqlKeyword	 notify no new null next notice natural
 syn keyword pgsqlKeyword	 or operator outer order old on out open
 syn keyword pgsqlKeyword	 prepare plpgsql primary password primary privilege procedure partial prepared
 syn keyword pgsqlKeyword	 partition preserve perform
 syn keyword pgsqlKeyword	 role replace reindex release reset revoke rollback references row rows rule restrict
 syn keyword pgsqlKeyword	 raise returns return returning
+syn keyword pgsqlKeyword	 query
 syn keyword pgsqlKeyword	 select set serial start strict schema sequence savepoint simple system stable setof
 syn keyword pgsqlKeyword	 truncate to tranaction trigger table tables temp temporary tablespace type
 syn keyword pgsqlKeyword	 update unique unlisten using
